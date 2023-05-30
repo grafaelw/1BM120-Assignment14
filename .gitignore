@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 .history
 .vscode
+Assignment-2/WF-data
 
 # C extensions
 *.so
