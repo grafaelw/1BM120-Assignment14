@@ -6,6 +6,9 @@ __pycache__/
 .history
 .vscode
 Assignment-2/WF-data
+*.zip
+Assignment-3/model
+
 
 # C extensions
 *.so
